@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  I am a person who has always been passionate about coding and computers and i love to see my code do wonders especially when scripting a game i love seeing the meshes and static objects coming alive and intracting with the environment.
+ 
+ check out mySpaceGame but dont get frustrated because of the bugs.
+ also trying to code in unity with object oriented progrmming check out new world
