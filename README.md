@@ -21,4 +21,4 @@ I have always been passionate about computers and love to see how they change th
 1. WinSock Programming (Got a TCP server running - yay!)
 
 ## Languages and Tools:
-<img src="{https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white}" />
+![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})
