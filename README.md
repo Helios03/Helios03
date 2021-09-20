@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **Helios03/Helios03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- I am a person who has always been passionate about coding and computers and i love to see my code do wonders especially when scripting a game i love seeing the meshes and static objects coming alive and interacting with the environment.
- 
- check out mySpaceGame but dont get frustrated because of the bugs.
- also trying to code in unity with object oriented progrmming check out new world
+I have always been passionate about computers and love to see how they change the world. I started learning to code when I was a teenager and have not stopped since and I actively try to code when ever I can.
+
+## Currently Learning
+1. ReactJs
+1. WinSock Programming (Got a TCP server running - yay!)
